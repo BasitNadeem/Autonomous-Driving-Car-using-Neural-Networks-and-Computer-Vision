@@ -1,2 +1,2 @@
-# ML-for-Beginners
-Machine Learning practice codes for beginners with understanding and intuition.  
+# Autonomous-Driving-Car-using-Neural-Networks-and-Computer-Vision
+
